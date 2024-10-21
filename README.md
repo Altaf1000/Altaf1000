@@ -1,4 +1,4 @@
-
+<img src="Purple Modern Gaming Youtube Banner.png">
 <h1 align="center">Hi,I'm Altaf Mehmood</h1>
 <h3 align="center">I am student of Information Technology actively learning new skills,with focus on software engineering.</h3>
 
